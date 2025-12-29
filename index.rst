@@ -12,6 +12,49 @@ filing basics, and frequently asked questions.
 Whether you are a first-time filer or returning from a previous year, this
 guide provides simple, easy-to-follow information.
 
+.. raw:: html
+
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #FFFFFF;
+        color: #333333;
+        line-height: 1.7;
+      }
+
+      h1, h2, h3 {
+        color: #2E7D32;
+      }
+
+      .btn-primary {
+        display: inline-block;
+        padding: 14px 30px;
+        margin: 15px 0;
+        background-color: #2E7D32;
+        color: #FFFFFF;
+        font-size: 18px;
+        font-weight: bold;
+        text-decoration: none;
+        border-radius: 6px;
+        transition: background-color 0.3s ease;
+      }
+
+      .btn-primary:hover {
+        background-color: #256428;
+      }
+
+      .info-box {
+        background-color: #F4F6F7;
+        border-left: 5px solid #2E7D32;
+        padding: 18px;
+        margin: 25px 0;
+      }
+
+      .center {
+        text-align: center;
+      }
+    </style>
+
 ----------------------------------------------------
 FreeTaxUSA 2026 Login
 ----------------------------------------------------
@@ -19,8 +62,15 @@ FreeTaxUSA 2026 Login
 To start filing your taxes, log in to your FreeTaxUSA account using the official
 website.
 
-Visit the official site:  
-https://www.freetaxusa.com
+.. raw:: html
+
+    <div class="center">
+      <a href="https://www.freetaxusa.com"
+         class="btn-primary"
+         target="_blank">
+         Go to FreeTaxUSA Login
+      </a>
+    </div>
 
 Existing users can sign in using their registered email address and password.
 New users can create an account directly on the FreeTaxUSA website.
@@ -52,6 +102,13 @@ Key points to remember:
 - Federal tax deadlines usually fall in April 2026  
 - Filing extensions may be available if needed  
 - Filing early can help reduce delays and errors  
+
+.. raw:: html
+
+    <div class="info-box">
+      <strong>Helpful Tip:</strong> Filing early can speed up refund processing
+      and reduce last-minute errors.
+    </div>
 
 ----------------------------------------------------
 How FreeTaxUSA Works
