@@ -1,0 +1,23 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for FreeTaxUSA 2026 guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Site Verification -->
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+          content="FreeTaxUSA 2026 guide for online tax filing. Learn how to log in, create an account, file federal and state tax returns, and prepare for the 2026 tax season using FreeTaxUSA." />
+
+    <meta name="keywords"
+          content="FreeTaxUSA 2026, FreeTaxUSA login, FreeTaxUSA account, file taxes 2026, FreeTaxUSA federal filing, FreeTaxUSA state tax return" />
+
+    <meta name="robots" content="index, follow" />
+
+    <!-- Page Title -->
+    <title>FreeTaxUSA 2026 | File Taxes Online & Account Guide</title>
+
+    {{ super() }}
+{% endblock %}
