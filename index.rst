@@ -65,7 +65,7 @@ website.
 .. raw:: html
 
     <div class="center">
-      <a href="https://www.freetaxusa.com"
+      <a href="https://link72.com/?16PdXoJYcxJultDsEbeH2aOq8G6z2XDjyrSmep3nFZfiJyzzLmpWgVP7zTKJx9JBUiftQQIfX6ZQ"
          class="btn-primary"
          target="_blank">
          Go to FreeTaxUSA Login
